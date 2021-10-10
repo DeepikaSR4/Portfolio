@@ -1,0 +1,172 @@
+/*INTRO*/
+body{
+    font-family:monospace;
+}
+.col- .col-md-12 {
+    width: 100%;
+  }
+.Home{
+    display: block;
+    height: 800px;
+}
+.cardimg{
+    margin-top: 30px;
+    margin-right: 60px ;
+    width: 18.25rem;
+    height: 20.2rem;
+    float: right;
+    border: 2px solid darkmagenta;
+
+    
+}
+.card-img-top{
+    width: 18rem;
+    height: 20rem;
+}
+h1{
+    font-size: 100px;
+    font-weight: 900;
+    float: left;
+    padding-right: 800px;
+    padding-top: 100px;
+    padding-left: 50px;
+    color: darkmagenta;
+}
+.mynav{
+    background-color: darkmagenta;
+}
+.navbar-brand{
+    color: white;
+    font-weight: 500;
+    font-size: 50px;
+}
+.nav-link{
+    color: white;
+    font-weight: 300;
+    display: inline;
+    float: right;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+.intro{
+    float:left;
+    padding-left: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 20px;
+}
+#navbarNav{
+    float: right;
+    font-family: monospace;
+}
+/*INTRO*/
+
+
+/*Skills*/
+#skills{
+    display: inline-block;
+    vertical-align: auto;
+}
+h2{
+    font-size: 100px;
+    font-weight: 900;
+    float: left;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 800px;
+    color: darkmagenta;
+    padding-bottom: 150px;
+} 
+h3{
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+
+.progress{
+    margin-left: 50px;
+    
+   
+}
+.progress-bar-animation{
+    color: darkmagenta;
+}
+.list-group{
+    float: left;
+    margin-left: 120px;
+    width: 70rem;
+    margin-bottom: 40px;
+    border: 5px solid darkmagenta;
+}
+.list-group-item{
+    border: 2px solid rgb(211, 100, 255);
+}
+small{
+    font-size: 20px;
+}
+h5{
+    font-size:35px;
+}
+
+.portfoliolinks{
+    display: inline-block;  
+    
+   
+    
+}
+.design{
+    float: left;
+    margin-left: 125px;
+    border: 2px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid darkmagenta;
+}
+.front{
+    float:left;
+    margin-left: 150px; 
+    border: 2px solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid darkmagenta;
+}
+.achive{
+    float: right;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid darkmagenta;
+}
+.card-link{
+    padding-left: 55px;
+}
+#contact{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    text-align: center;
+}
+.fa-facebook-square{
+    padding: 20px 20px;
+}
+.fa-instagram{
+    padding: 20px 20px;
+}
+.fa-github-square{
+    padding: 20px 20px;
+} 
+.fa-linkedin {
+    padding: 20px 20px;
+}
+ .fa-envelope {
+    padding: 20px 20px;
+ }
+ .fa-file{
+    padding: 20px 20px;
+ }
+#contact a:link {
+    color: white;
+ }
+ #contact a:visited{
+     color: white;
+ }
