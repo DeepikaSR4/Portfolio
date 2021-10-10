@@ -145,6 +145,7 @@ h5{
     background-color: rgb(32, 32, 32);
     color: white;
     text-align: center;
+    width=100%;
 }
 .fa-facebook-square{
     padding: 20px 20px;
